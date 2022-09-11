@@ -32,7 +32,7 @@
                             </th>
                             <th @click="sort('first_name')" scope="col" class="py-3 px-6 cursor-pointer " v-if="currentSortDir ==='asc' ? '▲' : '▼' " >
                                 <!-- <div v-if="currnetSortDir ==='asc' ? '▲' : '▼' "></div> -->
-                                First name 2
+                                First name 
                             </th>
                             <th scope="col" class="py-3 px-6">
                                 Last name

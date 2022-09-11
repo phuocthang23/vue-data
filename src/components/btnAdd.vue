@@ -1,6 +1,6 @@
 <template>
     <div>
-      <b-button v-b-modal.modal-prevent-closing> ADD INFO VERSION</b-button>
+      <b-button v-b-modal.modal-prevent-closing> ADD INFO </b-button>
   
       <b-modal
         id="modal-prevent-closing"
