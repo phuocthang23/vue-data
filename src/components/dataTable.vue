@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 <!-- todo -> btn add -->
-                <btnAdd :edit="employ" @save="clickAdd" class="rounded-lg inline-flex items-center bg-white hover:text-blue-500 focus:outline-none focus:shadow-outline text-gray-500 font-semibold py-2 px-2 md:px-4"/>
+                <btnAdd :edit="employ" @save="clickAdd"/>
                 <div>
                     <!-- <button class="rounded-lg inline-flex items-center bg-white hover:text-blue-500 focus:outline-none focus:shadow-outline text-gray-500 font-semibold py-2 px-2 md:px-4">ADD</button> -->
                    
